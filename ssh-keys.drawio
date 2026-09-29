@@ -1,0 +1,46 @@
+<mxfile host="app.diagrams.net">
+  <diagram name="Page-1" id="9aPgfZD1-pgGTkmswCUp">
+    <mxGraphModel dx="1030" dy="561" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="-p9quXQdOdceJ-nvf6Xw-2" parent="1" style="html=1;verticalLabelPosition=bottom;align=center;labelBackgroundColor=#ffffff;verticalAlign=top;strokeWidth=2;strokeColor=#0080F0;shadow=0;dashed=0;shape=mxgraph.ios7.icons.box;" value="" vertex="1">
+          <mxGeometry height="320" width="240" x="240" y="40" as="geometry" />
+        </mxCell>
+        <mxCell id="-p9quXQdOdceJ-nvf6Xw-3" parent="1" style="sketch=0;aspect=fixed;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;fillColor=#00188D;shape=mxgraph.mscae.enterprise.lock" value="" vertex="1">
+          <mxGeometry height="70" width="54.6" x="332.7" y="210" as="geometry" />
+        </mxCell>
+        <mxCell id="-p9quXQdOdceJ-nvf6Xw-5" edge="1" parent="1" source="-p9quXQdOdceJ-nvf6Xw-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="-p9quXQdOdceJ-nvf6Xw-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="-p9quXQdOdceJ-nvf6Xw-4" parent="1" style="points=[[0,0.5,0],[0.24,0,0],[0.5,0.28,0],[0.995,0.475,0],[0.5,0.72,0],[0.24,1,0]];verticalLabelPosition=bottom;sketch=0;html=1;verticalAlign=top;aspect=fixed;align=center;pointerEvents=1;shape=mxgraph.cisco19.key2;fillColor=none;strokeColor=#005073;" value="" vertex="1">
+          <mxGeometry height="36.25" width="80.56" x="640" y="226.88" as="geometry" />
+        </mxCell>
+        <mxCell id="-p9quXQdOdceJ-nvf6Xw-6" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;b&gt;public&lt;/b&gt;" vertex="1">
+          <mxGeometry height="30" width="60" x="332.7" y="290" as="geometry" />
+        </mxCell>
+        <mxCell id="-p9quXQdOdceJ-nvf6Xw-7" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;b&gt;private&lt;/b&gt;" vertex="1">
+          <mxGeometry height="30" width="60" x="650.28" y="270" as="geometry" />
+        </mxCell>
+        <mxCell id="-p9quXQdOdceJ-nvf6Xw-8" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;b&gt;Box&lt;/b&gt;" vertex="1">
+          <mxGeometry height="30" width="60" x="320" y="50" as="geometry" />
+        </mxCell>
+        <mxCell id="-p9quXQdOdceJ-nvf6Xw-9" parent="1" style="image;html=1;image=img/lib/clip_art/computers/Server_Rack_128x128.png" value="" vertex="1">
+          <mxGeometry height="170" width="110" x="307.7" y="520" as="geometry" />
+        </mxCell>
+        <mxCell id="-p9quXQdOdceJ-nvf6Xw-10" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="&lt;b&gt;public key&lt;/b&gt;" vertex="1">
+          <mxGeometry height="30" width="100" x="312.7" y="590" as="geometry" />
+        </mxCell>
+        <mxCell id="-p9quXQdOdceJ-nvf6Xw-13" edge="1" parent="1" source="-p9quXQdOdceJ-nvf6Xw-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="-p9quXQdOdceJ-nvf6Xw-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="-p9quXQdOdceJ-nvf6Xw-11" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="&lt;b&gt;private key&lt;/b&gt;" vertex="1">
+          <mxGeometry height="30" width="100" x="640" y="590" as="geometry" />
+        </mxCell>
+        <mxCell id="-p9quXQdOdceJ-nvf6Xw-12" parent="1" style="points=[[0,0.5,0],[0.24,0,0],[0.5,0.28,0],[0.995,0.475,0],[0.5,0.72,0],[0.24,1,0]];verticalLabelPosition=bottom;sketch=0;html=1;verticalAlign=top;aspect=fixed;align=center;pointerEvents=1;shape=mxgraph.cisco19.key2;fillColor=none;strokeColor=#005073;" value="" vertex="1">
+          <mxGeometry height="22.5" width="50" x="665" y="562" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>

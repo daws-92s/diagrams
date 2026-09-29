@@ -1,0 +1,43 @@
+<mxfile host="app.diagrams.net">
+  <diagram name="Page-1" id="-EQxrw9JJJCPS3YnrBDO">
+    <mxGraphModel dx="1030" dy="561" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="lHe9o-1nz9wQD9yBoBiH-3" edge="1" parent="1" source="lHe9o-1nz9wQD9yBoBiH-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="lHe9o-1nz9wQD9yBoBiH-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="lHe9o-1nz9wQD9yBoBiH-1" parent="1" style="sketch=0;aspect=fixed;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;fillColor=#00188D;shape=mxgraph.azure.laptop" value="" vertex="1">
+          <mxGeometry height="90" width="150" x="70" y="160" as="geometry" />
+        </mxCell>
+        <mxCell id="lHe9o-1nz9wQD9yBoBiH-2" parent="1" style="image;html=1;image=img/lib/clip_art/computers/Server_Rack_128x128.png" value="" vertex="1">
+          <mxGeometry height="170" width="130" x="450" y="120" as="geometry" />
+        </mxCell>
+        <mxCell id="lHe9o-1nz9wQD9yBoBiH-4" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;b&gt;Client&lt;/b&gt;" vertex="1">
+          <mxGeometry height="30" width="60" x="115" y="270" as="geometry" />
+        </mxCell>
+        <mxCell id="lHe9o-1nz9wQD9yBoBiH-5" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;b&gt;Server&lt;/b&gt;" vertex="1">
+          <mxGeometry height="30" width="60" x="485" y="290" as="geometry" />
+        </mxCell>
+        <mxCell id="lHe9o-1nz9wQD9yBoBiH-6" parent="1" style="sketch=0;aspect=fixed;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;fillColor=#00188D;shape=mxgraph.azure.laptop" value="" vertex="1">
+          <mxGeometry height="90" width="150" x="140" y="430" as="geometry" />
+        </mxCell>
+        <mxCell id="lHe9o-1nz9wQD9yBoBiH-7" parent="1" style="html=1;verticalLabelPosition=bottom;align=center;labelBackgroundColor=#ffffff;verticalAlign=top;strokeWidth=2;strokeColor=#0080F0;shadow=0;dashed=0;shape=mxgraph.ios7.icons.smartphone;" value="" vertex="1">
+          <mxGeometry height="160" width="60" x="450" y="380" as="geometry" />
+        </mxCell>
+        <mxCell id="lHe9o-1nz9wQD9yBoBiH-8" edge="1" parent="1" source="lHe9o-1nz9wQD9yBoBiH-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.596;entryDx=0;entryDy=0;entryPerimeter=0;" target="lHe9o-1nz9wQD9yBoBiH-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="lHe9o-1nz9wQD9yBoBiH-9" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;b&gt;Server&lt;/b&gt;" vertex="1">
+          <mxGeometry height="30" width="60" x="450" y="555" as="geometry" />
+        </mxCell>
+        <mxCell id="lHe9o-1nz9wQD9yBoBiH-10" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;b&gt;Client&lt;/b&gt;" vertex="1">
+          <mxGeometry height="30" width="60" x="185" y="530" as="geometry" />
+        </mxCell>
+        <mxCell id="lHe9o-1nz9wQD9yBoBiH-11" edge="1" parent="1" source="lHe9o-1nz9wQD9yBoBiH-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;innerLoopWaypoints=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" target="lHe9o-1nz9wQD9yBoBiH-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>

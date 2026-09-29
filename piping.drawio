@@ -1,0 +1,37 @@
+<mxfile host="app.diagrams.net">
+  <diagram name="Page-1" id="LK_cAVVB27Jzu8lWiTYc">
+    <mxGraphModel dx="1030" dy="561" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="BV1NHv2Rmb_E5wU-v1Nf-1" parent="1" style="sketch=0;outlineConnect=0;fontColor=#232F3E;gradientColor=none;fillColor=#7AA116;strokeColor=none;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;pointerEvents=1;shape=mxgraph.aws4.iot_analytics_pipeline;" value="" vertex="1">
+          <mxGeometry height="80" width="148.57" x="200" y="160" as="geometry" />
+        </mxCell>
+        <mxCell id="BV1NHv2Rmb_E5wU-v1Nf-2" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;b&gt;I/P&lt;/b&gt;" vertex="1">
+          <mxGeometry height="30" width="60" x="120" y="200" as="geometry" />
+        </mxCell>
+        <mxCell id="BV1NHv2Rmb_E5wU-v1Nf-3" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;b&gt;O/P&lt;/b&gt;" vertex="1">
+          <mxGeometry height="30" width="60" x="288.57" y="240" as="geometry" />
+        </mxCell>
+        <mxCell id="BV1NHv2Rmb_E5wU-v1Nf-5" parent="1" style="sketch=0;outlineConnect=0;fontColor=#232F3E;gradientColor=none;fillColor=#7AA116;strokeColor=none;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;pointerEvents=1;shape=mxgraph.aws4.iot_analytics_pipeline;" value="" vertex="1">
+          <mxGeometry height="80" width="148.57" x="348.57" y="160" as="geometry" />
+        </mxCell>
+        <mxCell id="BV1NHv2Rmb_E5wU-v1Nf-6" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;b&gt;I/P&lt;/b&gt;" vertex="1">
+          <mxGeometry height="30" width="60" x="340" y="240" as="geometry" />
+        </mxCell>
+        <mxCell id="BV1NHv2Rmb_E5wU-v1Nf-7" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;b&gt;O/P&lt;/b&gt;" vertex="1">
+          <mxGeometry height="30" width="60" x="450" y="240" as="geometry" />
+        </mxCell>
+        <mxCell id="BV1NHv2Rmb_E5wU-v1Nf-8" parent="1" style="sketch=0;outlineConnect=0;fontColor=#232F3E;gradientColor=none;fillColor=#7AA116;strokeColor=none;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;pointerEvents=1;shape=mxgraph.aws4.iot_analytics_pipeline;" value="" vertex="1">
+          <mxGeometry height="80" width="148.57" x="497.14" y="160" as="geometry" />
+        </mxCell>
+        <mxCell id="BV1NHv2Rmb_E5wU-v1Nf-9" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;b&gt;I/P&lt;/b&gt;" vertex="1">
+          <mxGeometry height="30" width="60" x="497.14" y="240" as="geometry" />
+        </mxCell>
+        <mxCell id="BV1NHv2Rmb_E5wU-v1Nf-10" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;b&gt;O/P&lt;/b&gt;" vertex="1">
+          <mxGeometry height="30" width="60" x="590" y="240" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
