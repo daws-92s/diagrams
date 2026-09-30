@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net">
   <diagram name="Page-1" id="HItWm_OkE9jwfVYG3bD8">
-    <mxGraphModel dx="2039" dy="660" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1857" dy="561" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -387,6 +387,39 @@
         </mxCell>
         <mxCell id="sGx4-ikY1tyqFdbwDgoa-13" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;b&gt;mysql-server&lt;/b&gt;" vertex="1">
           <mxGeometry height="30" width="108.55" x="550" y="1150" as="geometry" />
+        </mxCell>
+        <mxCell id="6r6uw24DCXnH6_SqsW6X-1" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="" vertex="1">
+          <mxGeometry height="360" width="533.85" x="26.15" y="1360" as="geometry" />
+        </mxCell>
+        <mxCell id="6r6uw24DCXnH6_SqsW6X-2" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;b&gt;Linux Server&lt;/b&gt;" vertex="1">
+          <mxGeometry height="30" width="158.27" x="18.27000000000001" y="1370" as="geometry" />
+        </mxCell>
+        <mxCell id="6r6uw24DCXnH6_SqsW6X-3" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="" vertex="1">
+          <mxGeometry height="250" width="430" x="80" y="1420" as="geometry" />
+        </mxCell>
+        <mxCell id="6r6uw24DCXnH6_SqsW6X-4" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;b&gt;application-servers&lt;/b&gt;" vertex="1">
+          <mxGeometry height="30" width="120" x="80" y="1420" as="geometry" />
+        </mxCell>
+        <mxCell id="6r6uw24DCXnH6_SqsW6X-6" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;rounded=0;" value="&lt;b&gt;weblogic&lt;/b&gt;&lt;div&gt;&lt;b&gt;websphere&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;jboss&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;glassfish&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;tomcat&lt;/b&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="30" width="60" x="-41.730000000000004" y="1450" as="geometry" />
+        </mxCell>
+        <mxCell id="6r6uw24DCXnH6_SqsW6X-7" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="&lt;b&gt;application&lt;/b&gt;" vertex="1">
+          <mxGeometry height="120" width="280" x="160" y="1480" as="geometry" />
+        </mxCell>
+        <mxCell id="6r6uw24DCXnH6_SqsW6X-8" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;gradientColor=#7ea6e0;strokeColor=#6c8ebf;" value="" vertex="1">
+          <mxGeometry height="190" width="293.85" x="26.15" y="1830" as="geometry" />
+        </mxCell>
+        <mxCell id="6r6uw24DCXnH6_SqsW6X-9" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;b&gt;Linux Server&lt;/b&gt;" vertex="1">
+          <mxGeometry height="30" width="80" x="80" y="1830" as="geometry" />
+        </mxCell>
+        <mxCell id="6r6uw24DCXnH6_SqsW6X-10" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;gradientColor=#97d077;strokeColor=#82b366;" value="" vertex="1">
+          <mxGeometry height="100" width="200" x="80" y="1880" as="geometry" />
+        </mxCell>
+        <mxCell id="6r6uw24DCXnH6_SqsW6X-11" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;b&gt;HTTP Server&lt;/b&gt;" vertex="1">
+          <mxGeometry height="30" width="120" x="70" y="1880" as="geometry" />
+        </mxCell>
+        <mxCell id="6r6uw24DCXnH6_SqsW6X-12" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;gradientColor=#ea6b66;strokeColor=#b85450;" value="&lt;b&gt;Frontend App&lt;/b&gt;" vertex="1">
+          <mxGeometry height="60" width="120" x="140" y="1910" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
