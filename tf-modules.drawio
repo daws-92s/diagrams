@@ -1,0 +1,80 @@
+<mxfile host="app.diagrams.net">
+  <diagram name="Page-1" id="3fwlWI5sIq_Z3LrktEvZ">
+    <mxGraphModel dx="1030" dy="561" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="G_RGduT3A4YI2YfJikC4-5" edge="1" parent="1" source="G_RGduT3A4YI2YfJikC4-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;defaultLabelBackgroundColor=page;labelPadding=0 4;" target="G_RGduT3A4YI2YfJikC4-4">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="110" y="110" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="G_RGduT3A4YI2YfJikC4-1" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="&lt;b&gt;roboshop-infra-dev&lt;/b&gt;" vertex="1">
+          <mxGeometry height="80" width="120" x="40" y="240" as="geometry" />
+        </mxCell>
+        <mxCell id="G_RGduT3A4YI2YfJikC4-9" edge="1" parent="1" source="G_RGduT3A4YI2YfJikC4-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;defaultLabelBackgroundColor=page;labelPadding=0 4;" target="G_RGduT3A4YI2YfJikC4-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="G_RGduT3A4YI2YfJikC4-2" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="&lt;b&gt;roboshop-infra-uat&lt;/b&gt;" vertex="1">
+          <mxGeometry height="80" width="120" x="280" y="240" as="geometry" />
+        </mxCell>
+        <mxCell id="G_RGduT3A4YI2YfJikC4-10" edge="1" parent="1" source="G_RGduT3A4YI2YfJikC4-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;defaultLabelBackgroundColor=page;labelPadding=0 4;" target="G_RGduT3A4YI2YfJikC4-4">
+          <mxGeometry relative="1" x="0.0645" as="geometry">
+            <Array as="points">
+              <mxPoint x="580" y="110" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="G_RGduT3A4YI2YfJikC4-3" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="&lt;b&gt;roboshop-infra-prod&lt;/b&gt;" vertex="1">
+          <mxGeometry height="80" width="120" x="520" y="240" as="geometry" />
+        </mxCell>
+        <mxCell id="G_RGduT3A4YI2YfJikC4-4" parent="1" style="rounded=1;whiteSpace=wrap;html=1;roundedPerimeter=1;" value="&lt;b&gt;terraform-aws-instance&lt;/b&gt;" vertex="1">
+          <mxGeometry height="60" width="120" x="280" y="80" as="geometry" />
+        </mxCell>
+        <mxCell id="G_RGduT3A4YI2YfJikC4-6" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;rounded=0;" value="&lt;b&gt;project = roboshop&lt;/b&gt;&lt;div&gt;&lt;b&gt;environment = dev&lt;/b&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="30" width="140" x="100" y="150" as="geometry" />
+        </mxCell>
+        <mxCell id="G_RGduT3A4YI2YfJikC4-7" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;rounded=0;" value="&lt;b&gt;project = roboshop&lt;/b&gt;&lt;div&gt;&lt;b&gt;environment = uat&lt;/b&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="30" width="140" x="200" y="195" as="geometry" />
+        </mxCell>
+        <mxCell id="G_RGduT3A4YI2YfJikC4-11" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;rounded=0;" value="&lt;b&gt;project = roboshop&lt;/b&gt;&lt;div&gt;&lt;b&gt;environment = prod&lt;/b&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="30" width="140" x="430" y="180" as="geometry" />
+        </mxCell>
+        <mxCell id="G_RGduT3A4YI2YfJikC4-12" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;b&gt;resource definitions are here&lt;/b&gt;" vertex="1">
+          <mxGeometry height="30" width="130" x="284" y="50" as="geometry" />
+        </mxCell>
+        <mxCell id="G_RGduT3A4YI2YfJikC4-16" edge="1" parent="1" source="G_RGduT3A4YI2YfJikC4-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;defaultLabelBackgroundColor=page;labelPadding=0 4;">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="780" y="110" />
+            </Array>
+            <mxPoint x="440" y="110" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="G_RGduT3A4YI2YfJikC4-13" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="&lt;b&gt;expense-infra-prod&lt;/b&gt;" vertex="1">
+          <mxGeometry height="80" width="120" x="720" y="240" as="geometry" />
+        </mxCell>
+        <mxCell id="G_RGduT3A4YI2YfJikC4-14" edge="1" parent="1" source="G_RGduT3A4YI2YfJikC4-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;innerLoopWaypoints=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=0.333;entryDx=0;entryDy=0;entryPerimeter=0;defaultLabelBackgroundColor=page;labelPadding=0 4;" target="G_RGduT3A4YI2YfJikC4-11">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="G_RGduT3A4YI2YfJikC4-15" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;rounded=0;" value="&lt;b&gt;project = expense&lt;/b&gt;&lt;div&gt;&lt;b&gt;environment = prod&lt;/b&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="30" width="140" x="790" y="180" as="geometry" />
+        </mxCell>
+        <mxCell id="G_RGduT3A4YI2YfJikC4-17" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;b&gt;provider&lt;/b&gt;" vertex="1">
+          <mxGeometry height="30" width="60" x="70" y="320" as="geometry" />
+        </mxCell>
+        <mxCell id="G_RGduT3A4YI2YfJikC4-18" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;b&gt;provider&lt;/b&gt;" vertex="1">
+          <mxGeometry height="30" width="60" x="310" y="320" as="geometry" />
+        </mxCell>
+        <mxCell id="G_RGduT3A4YI2YfJikC4-19" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;b&gt;provider&lt;/b&gt;" vertex="1">
+          <mxGeometry height="30" width="60" x="550" y="320" as="geometry" />
+        </mxCell>
+        <mxCell id="G_RGduT3A4YI2YfJikC4-20" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;b&gt;provider&lt;/b&gt;" vertex="1">
+          <mxGeometry height="30" width="60" x="750" y="320" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
